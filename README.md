@@ -20,5 +20,5 @@ En 2021, luego de mi estancia institucional y haber complementado con estudios o
 Y algunas más...
 
 ## Encuéntrame en:
-[![Instagram](https://img.shields.io/badge/Instagram-@miler.rmarco-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/miler.rmarco)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miler-Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miler-melvin-rodriguez-marco)
+[![Instagram]([https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010])](https://instagram.com/miler.rmarco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miler-melvin-rodriguez-marco)
